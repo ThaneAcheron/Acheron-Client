@@ -1,0 +1,36 @@
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\bin\Debug\AcheronClient.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\bin\Debug\AcheronClient.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.csprojResolveAssemblyReference.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\MainWindow.baml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\App.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient_MarkupCompile.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.g.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\bin\Debug\AcheronClient.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\bin\Debug\AcheronClient.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.csprojResolveAssemblyReference.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\MainWindow.baml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\App.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient_MarkupCompile.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.g.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\bin\Debug\AcheronClient.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\bin\Debug\AcheronClient.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.csprojResolveAssemblyReference.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\MainWindow.baml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\App.g.cs
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient_MarkupCompile.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.g.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\AcheronClient\AcheronClient\obj\x86\Debug\AcheronClient.csproj.GenerateResource.Cache
